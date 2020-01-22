@@ -1,4 +1,4 @@
-# infrastructure
+# Infrastructure
 
 
 ## AWS + Kubernetes + Jenkins-X + Terraform + Vault + Colsul
